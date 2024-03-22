@@ -20,6 +20,7 @@ public class Ex18 {
 			}
 			
 		}
+		scanner.close();
 	}
 
 }

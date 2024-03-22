@@ -11,7 +11,6 @@ public class Ex19 {
 		System.out.println("--------------------");
 		
 		int money=0;
-		int out=0;
 		int amount =0;
 		while(true) {
 			System.out.print("선택>");
